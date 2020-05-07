@@ -1,0 +1,31 @@
+.listItem__wrapper {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+.listItem__imaage {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.listItem__name {
+  margin: 0;
+  color: #1e58ff;
+  font-weight: 700;
+}
+
+.listItem__description {
+  font-weight: 300;
+}
+
+.listItem__button {
+  padding: 7px 12px;
+  font-weight: 500;
+  background: none;
+  border: 2p solid #1e58ff;
+  color: #1e58ff;
+}
